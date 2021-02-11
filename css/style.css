@@ -1,5 +1,28 @@
 body
 {
     background-color: #f0ffff;
-    width: 80%;
+    width: 50%;
+    margin: auto;
+}
+
+.sikertelen
+{
+    float: left;
+    width: 200px;
+}
+
+.sikeres
+{
+    float: right;
+    width: 200px;
+}
+
+.ballista
+{
+    list-style-image: url(../resources/img/icon_bad.png);
+}
+
+.jobblista
+{
+    list-style-image: url(../resources/img/icon_good.png);
 }

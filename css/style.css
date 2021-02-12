@@ -48,3 +48,22 @@ body
     position: absolute; top: 270px; left: 272px;
     
 }
+
+.kekdiv>p
+{
+    background-color: #0000ff;
+    color: #edf800;
+    width: 252px;
+    text-align: center;
+    font-weight: bold;
+    height: 28px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    padding-left: 13px;
+    padding-right: 15px;
+    position: absolute;
+    box-shadow: 9px 9px 6px #a0a0a0;
+    transform: rotate(6deg);
+    margin-left: 211px;
+    margin-top: 399px;
+}
